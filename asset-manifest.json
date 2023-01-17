@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Tenet-Pay/static/css/main.cb73de9b.css",
+    "main.js": "/Tenet-Pay/static/js/main.25ba1da8.js",
+    "static/media/SApassport.png": "/Tenet-Pay/static/media/SApassport.eabdfa369b7f11c295f7.png",
+    "static/media/tenetBg.png": "/Tenet-Pay/static/media/tenetBg.8edee5eab9498ac5960b.png",
+    "static/media/selfieEx.png": "/Tenet-Pay/static/media/selfieEx.95cc62004d15ac051a3f.png",
+    "static/media/bootstrap-icons.woff?": "/Tenet-Pay/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/selfie.png": "/Tenet-Pay/static/media/selfie.509631e2bd95c58ee20b.png",
+    "static/media/verifyConfirm.png": "/Tenet-Pay/static/media/verifyConfirm.018bf287844e280eaf3d.png",
+    "static/media/bootstrap-icons.woff2?": "/Tenet-Pay/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/passwordReset.png": "/Tenet-Pay/static/media/passwordReset.7e18701785593a78cbf0.png",
+    "static/media/mastercard.png": "/Tenet-Pay/static/media/mastercard.bb4d1f848da6e4673016.png",
+    "static/media/confirmWallet.png": "/Tenet-Pay/static/media/confirmWallet.dc02f42e46d90bb944f9.png",
+    "static/media/passwordKey.png": "/Tenet-Pay/static/media/passwordKey.e697bd643ecd3f0bd8b8.png",
+    "static/media/ukheshe.png": "/Tenet-Pay/static/media/ukheshe.0f5b80b6506c12f151a2.png",
+    "static/media/simcard.png": "/Tenet-Pay/static/media/simcard.4783ed6d90578fce7bd0.png",
+    "index.html": "/Tenet-Pay/index.html",
+    "main.cb73de9b.css.map": "/Tenet-Pay/static/css/main.cb73de9b.css.map",
+    "main.25ba1da8.js.map": "/Tenet-Pay/static/js/main.25ba1da8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb73de9b.css",
+    "static/js/main.25ba1da8.js"
+  ]
+}
