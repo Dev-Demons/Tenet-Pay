@@ -42,7 +42,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://Dev-demons.github.io/Tenet-Pay",
+  "homepage": "https://Dev-Demons.github.io/Tenet-Pay",
   "eslintConfig": {
     "extends": [
       "react-app",
