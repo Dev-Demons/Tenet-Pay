@@ -1,0 +1,6 @@
+.global-bg {
+  background-image: url(../../assets/images/tenetBg.png);
+
+  background-repeat: no-repeat;
+  background-size: contain;
+}
